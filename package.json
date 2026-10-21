@@ -1,0 +1,12 @@
+{
+  "name": "fire-safety-company-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "АДМ-СЕРВИС: сайт, статистика, заявки и настройки SMTP для PHP/MySQL",
+  "scripts": {
+    "dev": "php -S 127.0.0.1:4175 -t public",
+    "test": "python -B tests/test_web.py",
+    "check": "node --check public/app.js && node --check public/admin/admin.js",
+    "test:legacy": "node --test tests/request.test.cjs"
+  }
+}

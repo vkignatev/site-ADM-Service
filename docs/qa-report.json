@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-20",
+  "php": "8.3.35",
+  "integration_tests": 15,
+  "result": "passed",
+  "browser_checks": {
+    "checks": [
+      "Вход и выход",
+      "Период и график",
+      "Адаптивность панели и сайта: 5 ширин",
+      "Настройки почты без раскрытия пароля",
+      "Тестовое письмо через локальный TLS SMTP",
+      "Публичная заявка сохраняется и отправляется",
+      "Сбой SMTP не теряет заявку",
+      "Повтор отправки через интерфейс",
+      "Обработка статуса заявки",
+      "Сохранённый HTML отображается текстом",
+      "Проверка несовпадающих паролей",
+      "Насыщенно-бордовый логотип"
+    ],
+    "externalEmailSent": false,
+    "jsErrors": []
+  },
+  "database_tested": "SQLite via PDO; production adapter prepared for MySQL, live Webnames MySQL not connected",
+  "smtp_tested": "Verified TLS to a local SMTP sink; authentication, success, failure and retry",
+  "external_email_sent": false,
+  "hosting_deployed": false,
+  "source_project_updated": true
+}

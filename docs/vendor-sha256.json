@@ -1,0 +1,7 @@
+{
+  "Exception.php": "22ab858ae438d98f58f41f38ad2191d1b0d59570aebea0463a7948cfae1021b7",
+  "LICENSE": "a1a33180d02960ab1c5de36cf20b1a2f0fe9888d83826ad263da5db52f1b183b",
+  "PHPMailer.php": "45599a196ae7944ee2dcd4f3d3da0ac4243513d346b2d77bbd15dbd0c37f7064",
+  "SMTP.php": "522bcf0d07be7e7e00114711db5c9ce2b4d59ac041c5ec36eaadd979d5fa7046",
+  "VERSION": "beb5180595dd1b6199df574403f95dfb74aec7f79b73e84bd8207b12cb4169fa"
+}

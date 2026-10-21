@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /api.php
+
+Sitemap: https://adm-service-nsk.ru/sitemap.xml
